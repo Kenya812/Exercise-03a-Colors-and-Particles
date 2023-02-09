@@ -28,4 +28,3 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 ## Created by 
 
 Jania Woods
-```
